@@ -1,2 +1,1 @@
-# terraform
-My Terraform Repository
+Welcome to this template project!
