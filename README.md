@@ -1,1 +1,1 @@
-Welcome to this template project!
+Welcome to this project created by Terraform!
